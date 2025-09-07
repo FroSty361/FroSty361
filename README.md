@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FroSty361.
 - 👀 I’m interested in Web Development and Game Developemnt.
-- 🌱 I’m currently learning HTML, CSS, and c#.
+- 🌱 I’m currently learning HTML, CSS, and C#.
 - 📫 How to reach me my email (prevedeldominick@gmail.com) or just on here!
 - ⚡ Fun fact: Type <a href="https://frosty1.fun">frosty1.fun</a> in your browser to check out my website!
 
