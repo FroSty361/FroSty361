@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @FroSty361.
-- 👀 I’m interested in Web Development and Game Developemnt.
-- 🌱 I’m currently learning HTML, CSS, and C#.
-- 📫 How to reach me my email (prevedeldominick@gmail.com) or just on here!
-- ⚡ Fun fact: Type <a href="https://frosty1.fun">frosty1.fun</a> in your browser to check out my website!
+Hello World!
 
-<!---
-FroSty361/FroSty361 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I am itersted in many things tech. Most of the time I make games, often with C#.
+- My email (prevedeldominick@gmail.com) or just on here!
+- 
+Fact of the day! Type <a href="https://frosty1.fun">frosty1.fun</a> in your browser to check out my website!
