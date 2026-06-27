@@ -4,3 +4,5 @@ Hello World!
 - Contact me at my email (prevedeldominick@gmail.com) or just on here!
 
 Fact of the day! Type <a href="https://frosty1.fun">frosty1.fun</a> in your browser to check out my website!
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FroSty361)](https://github.com/FroSty361/github-readme-stats)
